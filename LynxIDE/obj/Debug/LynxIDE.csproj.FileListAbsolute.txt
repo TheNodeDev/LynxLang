@@ -1,0 +1,11 @@
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\bin\Debug\LynxIDE.exe.config
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\bin\Debug\LynxIDE.exe
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\bin\Debug\LynxIDE.pdb
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\obj\Debug\LynxIDE.Properties.Resources.resources
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\obj\Debug\LynxIDE.csproj.GenerateResource.cache
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\obj\Debug\LynxIDE.csproj.CoreCompileInputs.cache
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\obj\Debug\LynxIDE.exe
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\obj\Debug\LynxIDE.pdb
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\obj\Debug\LynxIDE.csproj.AssemblyReference.cache
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\obj\Debug\LynxIDE.Form1.resources
+C:\Users\johnafan\Desktop\LynxLang\LynxIDE\obj\Debug\LynxIDE.HelpForm.resources
